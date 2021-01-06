@@ -1,4 +1,4 @@
-# autopwn
+# db_autopwn
 
 cd /usr/share/metasploit-framework/plugins   定位到msf插件目录
 
